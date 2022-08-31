@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @d3xt3r-v0ldem0r7
+- 👋 Hi, I’m DEXTER
 - 👀 I’m interested in computer stuffs & electronics
 - 🌱 I’m currently learning big data
 - 💞️ I’m looking to collaborate on learning new stuff
